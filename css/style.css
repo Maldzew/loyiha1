@@ -445,14 +445,12 @@ input:nth-of-type(3):hover {
 .main-carousel__content {
     display:flex;
     margin-top: 30px;
-    border: 1px solid red;
 }
 
 .main-left__carousel {
     width: 45%;
     height: 420px;
     position: relative;
-    border: 1px solid red;
 
 }
 
@@ -563,8 +561,6 @@ input:nth-of-type(3):hover {
 .main-right__carousel {
     width: 55%;
     height: 420px;
-    border: 1px solid red;
-
 }
 
 .carousel-right__item {

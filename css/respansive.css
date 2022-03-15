@@ -145,17 +145,7 @@
     }
 
     /* ***********************carousel content********************** */
-    .main-carousel__content {
-        flex-direction: column !important;
-    }
 
-    .main-left__carousel {
-        width: 100% !important;
-    }
-
-    .main-right__carousel {
-        display: none;
-    }
 
 
 }
@@ -440,5 +430,7 @@
         position: absolute;
         right: 10%;
     }
+
+
 }
 
